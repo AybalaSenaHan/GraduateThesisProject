@@ -1,0 +1,17 @@
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\bin\Debug\TermProject.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\bin\Debug\TermProject.exe
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\bin\Debug\TermProject.pdb
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.csproj.GenerateResource.cache
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.exe
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.pdb
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.AdminPanel.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.AuthorInterface.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.DetailSearch.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.Login.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.PreAuthorInterface.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.AuthorSign.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\TermProject\TermProject\obj\Debug\TermProject.MainPage.resources
